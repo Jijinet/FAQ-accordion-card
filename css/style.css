@@ -20,6 +20,7 @@
   margin: 0;
   font-family: "Kumbh Sans", sans-serif;
   font-size: 12px;
+  list-style: none;
 }
 p {
   color: var(--dark-grayish-blue);
